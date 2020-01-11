@@ -16,7 +16,7 @@ OR
 
 Install with pip:
 
-`pip install geofactory-scook`
+`pip install geofactory`
 
 ## Use
 
