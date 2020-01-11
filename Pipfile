@@ -9,6 +9,8 @@ pytest = {editable = true,version = "*"}
 [packages]
 geojson = "*"
 faker = "*"
+setuptools = "*"
+wheel = "*"
+twine = "*"
 
 [requires]
-

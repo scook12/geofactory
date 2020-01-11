@@ -14,13 +14,9 @@ OR
 
 `pipenv install git+https://github.com/scook12/geofactory.git@master#egg=geofactory`
 
-Install from pip/pipenv *(coming soon)*:
+Install with pip:
 
-`pip install geofactory` 
-
-OR 
-
-`pipenv install geofactory`
+`pip install geofactory-scook`
 
 ## Use
 
