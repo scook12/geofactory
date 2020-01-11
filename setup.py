@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="geofactory-scook",
-    version="0.0.1",
+    version="0.0.2",
     author="Samuel Cook",
     author_email="rigdoncook@gmail.com",
     description="A simple geojson provider for faker",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://https://github.com/scook12/geofactory",
+    url="https://github.com/scook12/geofactory",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
