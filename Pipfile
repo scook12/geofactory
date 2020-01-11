@@ -4,10 +4,11 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pytest = {editable = true,version = "*"}
 
 [packages]
 geojson = "*"
 faker = "*"
 
 [requires]
-python_version = "3.8"
+
